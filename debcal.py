@@ -6,7 +6,7 @@ init()
 
 print( Fore.GREEN )
 
-what = input ("что делаем (+,-,/,*,**,)")
+what = input ("что делаем (+,-,)")
 
 print( Fore.CYAN )
 
